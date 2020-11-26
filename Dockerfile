@@ -16,7 +16,7 @@ LABEL maintainer="UC San Diego ITS/ETS <ets-consult@ucsd.edu>"
 # 2) change to root to install packages
 USER root
 
-RUN apt-get -y install libspatialindex-dev python-rtree
+RUN apt-get -y install libspatialindex-dev
 
 # 3) install packages
 COPY pip-requirements.txt /tmp
