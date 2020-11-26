@@ -1,4 +1,4 @@
-libspatialindex
+
 pysal
 pyshp
 Rtree
