@@ -1,7 +1,7 @@
 pysal
 pyshp
+Rtree
 Geopandas
 folium
-Rtree
 geopy
 mesa-geo
