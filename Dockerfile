@@ -22,7 +22,7 @@ RUN apt-get -y install libspatialindex-dev
 COPY pip-requirements.txt /tmp
 RUN pip install --no-cache-dir -r /tmp/pip-requirements.txt
 
-RUN git clone https://github.com/MuscularBrain/0527291751.git
+RUN git clone https://github.com/Krganapa/0527291751.git
 
 
 
